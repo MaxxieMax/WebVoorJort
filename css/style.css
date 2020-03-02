@@ -1,0 +1,43 @@
+body{
+    margin: auto;
+    background-color: rgb(141, 2, 14);
+}
+
+#navbarNavDropdown{
+    align-content: center;
+    background-color: rgb(255, 189, 53);
+    color: rgb(141, 2, 14);
+    border: 2px solid;
+    margin-top: 0px;
+    min-height: 10px;
+    border-radius: 10px;
+}
+
+#footer{
+    background-color: rgb(141, 2, 14);
+    border: 2px solid rgb(255, 189, 53);
+    margin-top: 0px;
+    min-height: 10px;
+    border-radius: 10px;
+}
+
+#p1{
+    color: rgb(255, 189, 53);
+}
+
+#textE{
+    color: white;
+}
+
+body {
+    overflow-x: hidden; /* Hide vertical scrollbar */
+  }
+
+  #navbar{
+    background-color: #fd0;
+    border: 2px solid #000000;
+    margin-top: 5px;
+    min-height: 10px;
+    border-radius: 28px;
+}
+
