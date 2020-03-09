@@ -7,8 +7,8 @@
             <form action="./index.php?content=register_script" method="POST">
                 <div class="form-group">
                     <label for="exampleInputEmail1" id="textE">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                    <small id="emailHelp" class="form-text text-muted">Regristreer voor het wekelijkse tijdschrift
+                    <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <small id="emailHelp" class="form-text text-muted">Regristreer voor het wekelijkse weekblad
                     </small>
                 </div>
                 <button type="submit" class="btn btn-primary">Regristreer</button>
@@ -16,7 +16,7 @@
         </div>
 
         <div class="col-6">
-            <img src="./img/gif.gif" id="foto1" alt="romeinen">
+            <img src="./img/gif.gif" id="gif1" alt="romeinen"  >
         </div>
     </div>
 </main>

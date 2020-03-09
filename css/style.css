@@ -41,3 +41,23 @@ body {
     border-radius: 28px;
 }
 
+.nav-link{
+    color: black;
+}
+
+a:hover{
+    color: #fd0;
+}
+
+#gif1{
+    background-color: #fd0;
+    padding: 6px 6px;
+    margin-left: 13cm;
+
+}
+
+#verb{
+    display: flex;
+    justify-content: center;
+    size: 10px;
+}
